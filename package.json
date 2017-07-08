@@ -1,0 +1,24 @@
+{
+  "name": "superagent",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "~1.15.2",
+    "cheerio": "^0.22.0",
+    "conv-lite": "^0.4.15",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.7.2",
+    "morgan": "~1.7.0",
+    "node-schedule": "^1.2.0",
+    "schedule": "^0.1.0",
+    "serve-favicon": "~2.3.0",
+    "superagent": "^*",
+    "superagent-charset": "^1.1.1"
+  }
+}
